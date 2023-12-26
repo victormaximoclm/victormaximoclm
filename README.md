@@ -1,5 +1,4 @@
 ### Olá! Eu sou o Victor Maximo👋
-
 - 🌱 No momento estou estudando React
 - ⚡ Estudante de Ciência e Tecnologia com ênfase em Computação
 <div>
