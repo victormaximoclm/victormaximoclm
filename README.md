@@ -31,19 +31,6 @@ Atuo criando soluções que conectam APIs, automatizam processos e entregam valo
 
 ---
 
-## 🔥 Projetos em destaque
-
-- 🚀 **Simplifica Dashboards**  
-  SaaS com autenticação, controle de acesso e integração com dashboards externos  
-
-- ⚙️ **Automações com n8n + ClickUp**  
-  Integrações complexas envolvendo APIs, webhooks e fluxos automatizados  
-
-- 🔐 **Sistema OAuth com ClickUp**  
-  Implementação completa de autenticação OAuth 2.0 e consumo de API  
-
----
-
 ## 📊 GitHub Stats
 
 <div>
