@@ -1,8 +1,8 @@
-# 🚀 Victor Máximo
+# 🚀 Victor Maximo
 
-Desenvolvedor Fullstack focado em automações, integrações e construção de sistemas reais.
+Desenvolvedor Fullstack especializado em automações, integrações e construção de sistemas reais.
 
-Atuo criando soluções que conectam APIs, automatizam processos e entregam valor direto para negócios.
+Crio soluções que conectam APIs, automatizam processos e geram valor direto para negócios.
 
 ---
 
@@ -17,17 +17,13 @@ Atuo criando soluções que conectam APIs, automatizam processos e entregam valo
 
 ## 🛠️ Tecnologias
 
-<div style="display: inline_block"><br>
-
-<img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="center" alt="Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="center" alt="Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-
-</div>
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
 
 ---
 
@@ -35,15 +31,13 @@ Atuo criando soluções que conectam APIs, automatizam processos e entregam valo
 
 <div>
   <a href="https://github.com/victormaximoclm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victormaximoclm&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormaximoclm&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victormaximoclm&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormaximoclm&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </div>
 
 ---
 
 ## 📫 Contato
-
-<div>
 
 <a href="mailto:victormaximoclima@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -57,4 +51,17 @@ Atuo criando soluções que conectam APIs, automatizam processos e entregam valo
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</div>
+---
+
+## 🚀 Sobre meu trabalho
+
+Atualmente atuo desenvolvendo:
+
+- Sistemas internos e SaaS  
+- Automações com n8n e integrações com APIs  
+- Dashboards e soluções orientadas a dados  
+- Integrações com WhatsApp, ClickUp e sistemas externos  
+
+---
+
+💼 Sempre aberto a oportunidades e projetos desafiadores.
