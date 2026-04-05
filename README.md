@@ -2,8 +2,6 @@
 
 Desenvolvedor Fullstack especializado em automações, integrações e construção de sistemas reais.
 
-Crio soluções que conectam APIs, automatizam processos e geram valor direto para negócios.
-
 ---
 
 ## 💡 Sobre mim
@@ -29,10 +27,9 @@ Crio soluções que conectam APIs, automatizam processos e geram valor direto pa
 
 ## 📊 GitHub Stats
 
-<div>
-  <a href="https://github.com/victormaximoclm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victormaximoclm&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormaximoclm&layout=compact&theme=tokyonight&cache_seconds=1800" />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victormaximoclm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormaximoclm&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
 ---
